@@ -4,7 +4,7 @@ Welcome to the **Fizzy** landing page! This modern, interactive website showcase
 
 ## 🌐 Live Demo
 
-👉 [View Live Site](https://fizzrush.com) — *Deployed on Vercel*
+👉 [View Live Site](https://fizzy-lovat.vercel.app/) — *Deployed on Vercel*
 
 ---
 
@@ -36,4 +36,38 @@ Clone the repository and install dependencies:
 git clone https://github.com/JasperMunene/fizzy.git
 cd fizzy
 npm install
+```
 
+Run the development server:
+
+```bash
+npm run dev
+```
+
+Build for production and start the server:
+
+```bash
+npm run build
+npm start
+```
+
+## 🧪 Development Tools
+
+- **Slice Machine:** This project uses Prismic Slice Machine for content management
+  ```bash
+  npm run slicemachine
+  ```
+
+- **Linting:** Check code quality
+  ```bash
+  npm run lint
+  ```
+
+- **Formatting:** Format code with Prettier
+  ```bash
+  npm run format
+  ```
+
+## 📝 License
+
+This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
