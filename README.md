@@ -1,6 +1,6 @@
-# 🥤 FizzRush — Soda Company Landing Page
+# 🥤 Fizzy Soda Company Landing Page
 
-Welcome to the **FizzRush** landing page! This modern, interactive website showcases the energy and personality of our soda brand, built with cutting-edge web technologies to deliver a smooth and immersive user experience.
+Welcome to the **Fizzy** landing page! This modern, interactive website showcases the energy and personality of our soda brand, built with cutting-edge web technologies to deliver a smooth and immersive user experience.
 
 ## 🌐 Live Demo
 
@@ -33,7 +33,7 @@ Welcome to the **FizzRush** landing page! This modern, interactive website showc
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/JasperMunene/fizzrush-landing.git
-cd fizzrush-landing
+git clone https://github.com/JasperMunene/fizzy.git
+cd fizzy
 npm install
 
